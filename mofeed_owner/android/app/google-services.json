@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "250556864952",
+    "project_id": "mofeed-3e22a",
+    "storage_bucket": "mofeed-3e22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250556864952:android:a8e70f33d7e1662cd1d74d",
+        "android_client_info": {
+          "package_name": "com.mofeed.unisidekick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250556864952-6t9s0j66ekmre018j01v8ueug6r0sibi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdo9HVNrTPyawLQBdw1vOzj_rhUgPtu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250556864952-6t9s0j66ekmre018j01v8ueug6r0sibi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250556864952-4crjft4aqia3pt7eco3bi3bnetiok3hl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mofeed.unisidekick"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250556864952:android:ee7fe019407c03d6d1d74d",
+        "android_client_info": {
+          "package_name": "com.mofeedowner.unisidekick.mofeed_owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250556864952-6t9s0j66ekmre018j01v8ueug6r0sibi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdo9HVNrTPyawLQBdw1vOzj_rhUgPtu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250556864952-6t9s0j66ekmre018j01v8ueug6r0sibi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250556864952-4crjft4aqia3pt7eco3bi3bnetiok3hl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mofeed.unisidekick"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,211 @@
+{
+  "unis": [
+    {
+      "id": "1",
+      "latitude": 31.0,
+      "longitude": 32.0,
+      "abreviation": "FUE",
+      "allowedRange": 500.0,
+      "name": {
+        "en": "Future University In Egypt",
+        "ar": "جامعة المستقبل في مصر"
+      },
+      "domain": "@fue.edu.eg",
+      "faculties": [
+        {
+          "name": {
+            "ar": "كلية الحاسبات و تكتولوجيا المعلومات",
+            "en": "Faculty of computer & information technology"
+          },
+          "id": "1"
+        },
+        {
+          "name": {
+            "ar": "كلية الصيدلة",
+            "en": "Faculty of Pharmacy"
+          },
+          "id": "2"
+        },
+        {
+          "name": {
+            "ar": "كلية طب الأسنان",
+            "en": "Faculty of Oral & Dental Medicine"
+          },
+          "id": "2"
+        },
+        {
+          "name": {
+            "ar": "كلية الهندسة",
+            "en": "Faculty of Engineering & Technology"
+          },
+          "id": "3"
+        },
+        {
+          "name": {
+            "ar": "كلية اقتصاد و علوم سياسية",
+            "en": "Faculty of Economics & Political Science"
+          },
+          "id": "4"
+        },
+        {
+          "name": {
+            "ar": "كلية التجارة و ادارة الأعمال",
+            "en": "Faculty of Commerce & Business Administration"
+          },
+          "id": "5"
+        },
+        {
+          "name": {
+            "ar": "مبني قسم الأنجليزية",
+            "en": "English Language Department"
+          },
+          "id": "6"
+        }
+      ],
+      "city": "cai",
+      "topic": {
+        "ar": "fueAr",
+        "en": "fueEn"
+      },
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/FUE_LOGO.jpg"
+    },
+    {
+      "id": "2",
+      "latitude": 31.0,
+      "longitude": 32.0,
+      "abreviation": "BUE",
+      "allowedRange": 500.0,
+      "name": {
+        "en": "British University in cairo",
+        "ar": "الجامعة البريطيانية في القاهرة"
+      },
+      "domain": "@bue.edu.eg",
+      "faculties": [
+        {
+          "name": {
+            "ar": "كلية الحاسبات و تكتولوجيا المعلومات",
+            "en": "Faculty of computer & information technology"
+          },
+          "id": "1"
+        },
+        {
+          "name": {
+            "ar": "كلية الصيدلة",
+            "en": "Faculty of Pharmacy"
+          },
+          "id": "2"
+        },
+        {
+          "name": {
+            "ar": "كلية طب الأسنان",
+            "en": "Faculty of Oral & Dental Medicine"
+          },
+          "id": "2"
+        },
+        {
+          "name": {
+            "ar": "كلية الهندسة",
+            "en": "Faculty of Engineering & Technology"
+          },
+          "id": "3"
+        },
+        {
+          "name": {
+            "ar": "كلية اقتصاد و علوم سياسية",
+            "en": "Faculty of Economics & Political Science"
+          },
+          "id": "4"
+        },
+        {
+          "name": {
+            "ar": "كلية التجارة و ادارة الأعمال",
+            "en": "Faculty of Commerce & Business Administration"
+          },
+          "id": "5"
+        },
+        {
+          "name": {
+            "ar": "مبني قسم الأنجليزية",
+            "en": "English Language Department"
+          },
+          "id": "6"
+        }
+      ],
+      "city": "cai",
+      "topic": {
+        "ar": "bueAr",
+        "en": "bueEn"
+      },
+      "logo": "https://new.bue.edu.eg/uploads/editor/BUE%20Centers%20Logos-06%20-%20Copy%201.jpg"
+    },
+    {
+      "id": "3",
+      "latitude": 31.0,
+      "longitude": 32.0,
+      "abreviation": "GUC",
+      "allowedRange": 500.0,
+      "name": {
+        "en": "German University in cairo",
+        "ar": "الجامعة الالمانية في القاهرة"
+      },
+      "domain": "@guc.edu.eg",
+      "faculties": [
+        {
+          "name": {
+            "ar": "كلية الحاسبات و تكتولوجيا المعلومات",
+            "en": "Faculty of computer & information technology"
+          },
+          "id": "1"
+        },
+        {
+          "name": {
+            "ar": "كلية الصيدلة",
+            "en": "Faculty of Pharmacy"
+          },
+          "id": "2"
+        },
+        {
+          "name": {
+            "ar": "كلية طب الأسنان",
+            "en": "Faculty of Oral & Dental Medicine"
+          },
+          "id": "2"
+        },
+        {
+          "name": {
+            "ar": "كلية الهندسة",
+            "en": "Faculty of Engineering & Technology"
+          },
+          "id": "3"
+        },
+        {
+          "name": {
+            "ar": "كلية اقتصاد و علوم سياسية",
+            "en": "Faculty of Economics & Political Science"
+          },
+          "id": "4"
+        },
+        {
+          "name": {
+            "ar": "كلية التجارة و ادارة الأعمال",
+            "en": "Faculty of Commerce & Business Administration"
+          },
+          "id": "5"
+        },
+        {
+          "name": {
+            "ar": "مبني قسم الأنجليزية",
+            "en": "English Language Department"
+          },
+          "id": "6"
+        }
+      ],
+      "city": "cai",
+      "topic": {
+        "ar": "gucAr",
+        "en": "gucEn"
+      },
+      "logo": "https://english.ahram.org.eg/Media/News/2023/8/16/41_2023-638278137114589044-458.jpg"
+    }
+  ]
+}

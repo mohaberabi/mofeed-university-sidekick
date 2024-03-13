@@ -1,0 +1,79 @@
+name: mofeed_shared
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+  flutter: ">=1.17.0"
+
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  internet_connection_checker: ^1.0.0+1
+  flutter_svg: ^2.0.7
+  bloc: ^8.1.1
+  firebase_auth: ^4.2.5
+  shared_preferences: ^2.0.12
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  uuid: ^3.0.6
+  flutter_bloc: ^8.1.1
+  url_launcher: ^6.0.17
+  permission_handler: ^10.2.0
+  shimmer: ^3.0.0
+  dio: ^5.3.0
+  firebase_messaging: ^14.6.5
+  flutter_local_notifications: ^16.1.0
+  firebase_storage: ^11.2.1
+  firebase_core: ^2.4.1
+  cloud_firestore: ^4.3.1
+  image_picker: ^1.0.0
+  another_flushbar: ^1.12.30
+  cached_network_image: ^3.3.0
+
+  food_court:
+    path: /Users/mohaberabi/development/projects/mofeed/food_court
+  sakan:
+    path: /Users/mohaberabi/development/projects/mofeed/sakan
+  flutter_localizations:
+    sdk: flutter
+
+  flutter:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/
+    - lib/images/
+  fonts:
+    - family: Almarai
+      fonts:
+        - asset: assets/fonts/Almarai/Almarai-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Almarai/Almarai-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Almarai/Almarai-Light.ttf
+          weight: 300
+    - family: Lota
+      fonts:
+        - asset: assets/fonts/Lota/LotaGrotesque-Black.otf
+          weight: 900
+        - asset: assets/fonts/Lota/LotaGrotesque-Bold.otf
+          weight: 800
+        - asset: assets/fonts/Lota/LotaGrotesque-ExtraLight.otf
+          weight: 200
+        - asset: assets/fonts/Lota/LotaGrotesque-Light.otf
+          weight: 300
+        - asset: assets/fonts/Lota/LotaGrotesque-Regular.otf
+          weight: 400
+        - asset: assets/fonts/Lota/LotaGrotesque-SemiBold.otf
+          weight: 600
+        - asset: assets/fonts/Lota/LotaGrotesque-Thin.otf
+          weight: 100

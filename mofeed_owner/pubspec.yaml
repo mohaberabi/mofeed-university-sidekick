@@ -1,0 +1,89 @@
+name: mofeed_owner
+description: For Accepting orders for owners
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.1+23
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_messaging: ^14.2.1
+  internet_connection_checker: ^1.0.0+1
+  flutter_local_notifications: ^16.1.0
+  bloc: ^8.1.1
+  dio: ^5.2.1
+  firebase_core: ^2.4.1
+  cloud_firestore: ^4.3.1
+  firebase_auth: ^4.2.5
+  shared_preferences: ^2.0.12
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  get_it: ^7.2.0
+  uuid: ^3.0.6
+  flutter_bloc: ^8.1.1
+  url_launcher: ^6.0.17
+  cached_network_image: ^3.2.1
+  permission_handler: ^10.2.0
+  image_picker: ^1.0.0
+  firebase_storage: ^11.2.1
+  shimmer: ^3.0.0
+  another_flushbar: ^1.12.30
+
+  mofeed_shared:
+    path: /Users/mohaberabi/development/projects/mofeed/mofeed_shared
+
+  food_court:
+    path: /Users/mohaberabi/development/projects/mofeed/food_court
+
+  flutter_localizations:
+    sdk: flutter
+dev_dependencies:
+
+
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+
+  assets:
+    - packages/mofeed_shared/images/food.svg
+    - packages/mofeed_shared/images/parking.svg
+    - packages/mofeed_shared/images/desert.svg
+    - packages/mofeed_shared/images/error.svg
+
+
+
+  fonts:
+    - family: Almarai
+      fonts:
+        - asset: packages/mofeed_shared/fonts/Almarai/Almarai-Bold.ttf
+          weight: 700
+        - asset: packages/mofeed_shared/fonts/Almarai/Almarai-Regular.ttf
+          weight: 400
+        - asset: packages/mofeed_shared/fonts/Almarai/Almarai-Light.ttf
+          weight: 300
+    - family: Lota
+      fonts:
+        - asset: packages/mofeed_shared/fonts/Lota/LotaGrotesque-Black.otf
+          weight: 900
+        - asset: packages/mofeed_shared/fonts/Lota/LotaGrotesque-Bold.otf
+          weight: 800
+        - asset: packages/mofeed_shared/fonts/Lota/LotaGrotesque-ExtraLight.otf
+          weight: 200
+        - asset: packages/mofeed_shared/fonts/Lota/LotaGrotesque-Light.otf
+          weight: 300
+        - asset: packages/mofeed_shared/fonts/Lota/LotaGrotesque-Regular.otf
+          weight: 400
+        - asset: packages/mofeed_shared/fonts/Lota/LotaGrotesque-SemiBold.otf
+          weight: 600
+        - asset: packages/mofeed_shared/fonts/Lota/LotaGrotesque-Thin.otf
+          weight: 100

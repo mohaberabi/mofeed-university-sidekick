@@ -1,0 +1,33 @@
+{
+  "rest": [
+    {
+      "name": {
+        "ar": "سفن دايز",
+        "en": "Seven Days"
+      },
+      "id": "FAIN6cswnHPsmwRKX2LSBNW58Aq1",
+      "uniId": "1",
+      "logo": "https://lh3.googleusercontent.com/p/AF1QipPN6xzLU5K9XuXb0LAEAZkGAqQoBdTV75o2OQEW=w1080-h608-p-no-v0",
+      "state": "available",
+      "token": "",
+      "cuisines": [
+        "breakfast",
+        "beverages",
+        "burgers",
+        "cafe",
+        "cakes",
+        "chicken",
+        "crepes",
+        "desserts",
+        "egyptian",
+        "falafel",
+        "grills"
+      ],
+      "offersDelivery": true,
+      "ratingCount": 100,
+      "fees": 15.0,
+      "ratings": 56,
+      "minPickupTime": 15
+    }
+  ]
+}

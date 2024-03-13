@@ -1,0 +1,68 @@
+{
+  "cat": [
+    {
+      "id": "1",
+      "name": {
+        "ar": "الأكثر طلب",
+        "en": "Trending"
+      },
+      "order": 0
+    },
+    {
+      "id": "2",
+      "name": {
+        "ar": "وجبات",
+        "en": "Meals"
+      },
+      "order": 1
+    },
+    {
+      "id": "3",
+      "name": {
+        "ar": "ساندويتشات اللحم",
+        "en": "Beef Sandwiches"
+      },
+      "order": 2
+    },
+    {
+      "id": "4",
+      "name": {
+        "ar": "سندوتشات فراخ",
+        "en": "Chicken Sahdwiches"
+      },
+      "order": 3
+    },
+    {
+      "id": "5",
+      "name": {
+        "ar": "صوص",
+        "en": "Sauces "
+      },
+      "order": 4
+    },
+    {
+      "id": "6",
+      "name": {
+        "ar": "مشروبات",
+        "en": "Beverages"
+      },
+      "order": 5
+    },
+    {
+      "id": "7",
+      "name": {
+        "ar": "حلو",
+        "en": "Desserts"
+      },
+      "order": 6
+    },
+    {
+      "id": "8",
+      "name": {
+        "ar": "اضافات",
+        "en": "Extras"
+      },
+      "order": 7
+    }
+  ]
+}

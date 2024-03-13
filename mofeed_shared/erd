@@ -1,0 +1,32 @@
+
+university(collection)
+  university(doc)
+  univeristy-data
+      restaraunts(collections)
+        restaurant(doc)
+           categories(collection)
+           menu(collection)
+           orders(collection)
+      echos(collection)
+      parkings(collection)
+
+rooms(collection)
+
+roomRequests(collection)
+
+userPrefs(collection)
+
+
+users(collection)
+   user(doc)
+     orders(collection)
+     rooms(collection)
+     roomRequest(collection)
+     cars(collection)
+     chats(collection)
+       chat(doc)
+          messages(collection)
+
+
+
+
