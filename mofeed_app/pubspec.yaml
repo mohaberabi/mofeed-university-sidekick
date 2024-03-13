@@ -1,0 +1,78 @@
+name: mofeduserpp
+description: For Having A Better College Daily Life.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.1+23
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_messaging: ^14.2.1
+  internet_connection_checker: ^1.0.0+1
+  flutter_local_notifications: ^16.1.0
+  flutter_svg: ^2.0.7
+  bloc: ^8.1.1
+  dio: ^5.2.1
+  firebase_core: ^2.4.1
+  cloud_firestore: ^4.3.1
+  firebase_auth: ^4.2.5
+  shared_preferences: ^2.0.12
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  get_it: ^7.2.0
+  uuid: ^3.0.6
+  flutter_bloc: ^8.1.1
+  url_launcher: ^6.0.17
+  app_settings: ^4.2.0
+  firebase_storage: ^11.2.1
+  shimmer: ^3.0.0
+  photo_view: ^0.14.0
+  image_picker: ^1.0.0
+  another_flushbar: ^1.12.30
+  geolocator: ^10.1.0
+  cached_network_image: ^3.3.0
+
+  mofeed_shared:
+    path: /Users/mohaberabi/development/projects/mofeed/mofeed_shared
+
+  food_court:
+    path: /Users/mohaberabi/development/projects/mofeed/food_court
+  sakan:
+    path: /Users/mohaberabi/development/projects/mofeed/sakan
+  flutter_localizations:
+    sdk: flutter
+dev_dependencies:
+
+  mocktail: ^0.3.0
+  bloc_test: ^9.1.4
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+
+
+
+
+  assets:
+    - packages/mofeed_shared/images/food.svg
+    - packages/mofeed_shared/images/fue.jpeg
+    - packages/mofeed_shared/images/parking.svg
+    - packages/mofeed_shared/images/desert.svg
+    - packages/mofeed_shared/images/error.svg
+    - packages/mofeed_shared/jsons/uni.json
+    - packages/mofeed_shared/jsons/rest.json
+    - packages/mofeed_shared/jsons/rooms.json
+    - packages/mofeed_shared/jsons/mates.json
+    - packages/mofeed_shared/jsons/cat.json
+    - packages/mofeed_shared/jsons/item.json
+    - packages/mofeed_shared/jsons/options.json
+
